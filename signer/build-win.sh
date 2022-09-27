@@ -1,0 +1,1 @@
+sudo docker run -v "/home/anton/Neti/kryptopro-signer/signer:/src/" cdrx/pyinstaller-windows
