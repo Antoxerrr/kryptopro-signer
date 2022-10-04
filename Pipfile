@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 pyinstaller = "*"
+pywin32 = "*"
+requests = "*"
+pyqt5 = "*"
 
 [dev-packages]
 

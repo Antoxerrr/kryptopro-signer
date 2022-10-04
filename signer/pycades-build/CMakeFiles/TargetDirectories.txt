@@ -1,3 +1,0 @@
-/home/anton/Загрузки/pycades/pycades_0.1.30636/build/CMakeFiles/rebuild_cache.dir
-/home/anton/Загрузки/pycades/pycades_0.1.30636/build/CMakeFiles/pycades.dir
-/home/anton/Загрузки/pycades/pycades_0.1.30636/build/CMakeFiles/edit_cache.dir
